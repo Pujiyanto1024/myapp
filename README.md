@@ -3,7 +3,7 @@
 
 Clone Repository:
 ```bash
-git clone https://github.com/Pujiyanto1024/simulasi-registrasi.git
+git clone https://github.com/Pujiyanto1024/myapp.git
 ```
 
 Install dependency
